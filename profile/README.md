@@ -16,7 +16,7 @@ It provides a streamlined way to communicate with users about incidents, schedul
 - Report and update incidents
 - Schedule maintenance periods
 - Metrics tracking
-- Easy to use JSON API
+- Easy to use [JSON API](https://docs.cachethq.io/api-reference/introduction)
 - Self-hosted and customizable
 - Built on PHP, [Laravel](https://laravel.com), [Tailwind](https://tailwind.com) and [Filament](https://filamentphp.com).
 
