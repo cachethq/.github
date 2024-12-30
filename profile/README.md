@@ -1,4 +1,11 @@
-<p align="center"><a href="https://cachethq.io" target="_blank"><img src="https://raw.githubusercontent.com/cachethq/art/refs/heads/master/logo-type/cachet-logo-light.svg" width="400"></a></p>
+<p align="center">
+  <a href="https://cachethq.io/?ref=github">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cachethq.io/assets/cachet-logo-dark.svg">
+      <img alt="Cachet Logo" src="https://cachethq.io/assets/cachet-logo-light.svg">
+    </picture>
+  </a>
+</p>
 
 ## Cachet
 
