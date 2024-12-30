@@ -18,9 +18,13 @@ It provides a streamlined way to communicate with users about incidents, schedul
 - Metrics tracking
 - Easy to use JSON API
 - Self-hosted and customizable
-- Built on [Laravel](https://laravel.com) (PHP)
+- Built on PHP, [Laravel](https://laravel.com), [Tailwind](https://tailwind.com) and [Filament](https://filamentphp.com).
 
-### Sponsor Cachet
+## Documentation
+
+Cachet's user guide and API reference are available at [docs.cachethq.io](https://docs.cachethq.io).
+
+## Sponsor Cachet
 
 Help support the development of Cachet by becoming a sponsor. Your sponsorship helps cover ongoing development, maintenance, and hosting costs.
 Visit our [sponsor page](https://github.com/sponsors/CachetHQ) for more details.
